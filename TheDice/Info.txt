@@ -1,0 +1,2 @@
+The Dice was written in VS2008 C++ to allow for the execution of the program on a wider range of Windows platforms.
+It has no #includes and does not employ any standard C++ code that would require an external library.
